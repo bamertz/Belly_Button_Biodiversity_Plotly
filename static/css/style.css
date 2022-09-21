@@ -1,0 +1,34 @@
+.jumbotron {
+    background-image: url("../images/bact.jpeg");
+    background-size: cover; 
+    color: black;
+    -webkit-text-stroke: 1px #00f515;
+    font-family: "Fantasy", Copperplate;
+   
+}
+
+.well {
+    background-color: #00f515;
+    color: black;
+}
+
+
+.row {
+    font-family: "Fantasy", Copperplate; 
+    color: black;
+    outline-color: #00f515;
+}
+
+.panel > .panel-heading {
+    background-color: black;
+    color: #00f515;
+    outline-style: solid;
+    outline-color: #00f515;
+}
+
+.panel > .panel-body {
+    background-color: black;
+    color: #00f515;
+    outline-style: solid;
+    outline-color: #00f515;
+}
