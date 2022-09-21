@@ -2,7 +2,7 @@
 
 # Overview
 
-![Overview](Static/images/overview.png)
+![Overview](static/images/Overview.png)
 
 # Results
 
