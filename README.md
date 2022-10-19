@@ -4,7 +4,7 @@
 
 Created an interactive dashboard with multiple charts from Belly Button Biodiversity.
 
-https://bamertz.github.io/Belly_Button_Biodiversity_Plotly/
+https://bamertz.github.io/Bootcamp-Belly_Button_Biodiversity_Plotly/
 
 # Results
 
